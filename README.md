@@ -3,7 +3,7 @@
 * Tasks to be Performed are lined up based on number of weeks.
 * You could find week_no.md files in which the tasks to be done in that week will be present. 
 * To make this more interesting and competitive we added some score for each task.
-* There is no need to solve every category .Try to focus on two categories.
+* Max 2 Categories can be chosen.
 * Number of challenges are enough you will not be able to solve every category.
 * Detailed Writeups must be submited for every challenge solved comprising of how you arrived at that solution,why that payload worked.
 * We will update scoreboard every week.
