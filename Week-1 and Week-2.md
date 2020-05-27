@@ -12,4 +12,4 @@ Complete entire Protostar Stack and Format Strings
 https://exploit-exercises.lains.space/protostar/
 
 ## Crypto:
-[To be added shortly]
+Solve https://cryp.toc.tf/
