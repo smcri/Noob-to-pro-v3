@@ -5,7 +5,7 @@
 Solve reversing challenges of https://ringzer0ctf.com/challenges
 
 ## Web:
-Solve we challenges of https://ringzer0ctf.com/challenges
+Solve web challenges of https://ringzer0ctf.com/challenges
 
 ## Pwn:
 Complete entire Protostar 
