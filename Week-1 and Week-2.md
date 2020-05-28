@@ -5,7 +5,7 @@
 Solve reversing challenges of https://ringzer0ctf.com/challenges
 
 ## Web:
-Solve web challenges of https://ringzer0ctf.com/challenges
+Solve this vulnerable application https://github.com/WebGoat/WebGoat
 
 ## Pwn:
 Complete entire Protostar 
