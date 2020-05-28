@@ -2,7 +2,7 @@
 # Week1:
 
 ## Reversing:
-Solve difficulty 1 and 2 challenges of https://crackmes.one/lasts
+Solve reversing challenges of https://ringzer0ctf.com/challenges
 
 ## Web:
 Solve https://github.com/WebGoat/WebGoat
