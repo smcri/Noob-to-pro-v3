@@ -1,5 +1,5 @@
 
-# Week1:
+# Week1 and Week2:
 
 ## Reversing:
 Solve reversing challenges of https://ringzer0ctf.com/challenges
@@ -8,7 +8,7 @@ Solve reversing challenges of https://ringzer0ctf.com/challenges
 Solve we challenges of https://ringzer0ctf.com/challenges
 
 ## Pwn:
-Complete entire Protostar Stack and Format Strings
+Complete entire Protostar 
 https://exploit-exercises.lains.space/protostar/
 
 ## Crypto:
