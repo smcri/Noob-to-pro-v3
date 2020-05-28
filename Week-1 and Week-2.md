@@ -5,7 +5,7 @@
 Solve reversing challenges of https://ringzer0ctf.com/challenges
 
 ## Web:
-Solve https://github.com/WebGoat/WebGoat
+Solve we challenges of https://ringzer0ctf.com/challenges
 
 ## Pwn:
 Complete entire Protostar Stack and Format Strings
